@@ -2,7 +2,10 @@
 <h1 align="left">Hi 👋🏽, I'm Triola Michelle</h1>
 <h3 align="left">A passionate software engineer from San Diego, Ca based in Guadalajara, Mexico</h3>
 
+- ✒️ Learning on Full Stack Web Development
 - 🔭 I’m currently working on **Dog and Cat Manager App**
+- 🏀 LA Lakers Fan / Bball Hall of Famer @ Saint Mary's College of California
+- 📚 Avid Reader / Lover of all things Harry Potter
 - 🐦 Connect with me on <a href="https://twitter.com/jacktreec" target="blank">Twitter</a>
 
 <p align="left">
