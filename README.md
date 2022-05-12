@@ -2,7 +2,8 @@
 <h1 align="left">Hi 👋🏽, I'm Triola Michelle</h1>
 <h3 align="left">A passionate software engineer from San Diego, Ca based in Guadalajara, Mexico</h3>
 
-- 🔭 I’m currently working on **Dog and Cat Manager App**
+🔭 I’m currently working on **Dog and Cat Manager App**
+🐦 Connect with me on <a href="https://twitter.com/jacktreec" target="blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
