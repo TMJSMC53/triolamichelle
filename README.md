@@ -1,6 +1,6 @@
 #
-<h1 align="center">Hi 👋🏽, I'm Triola Michelle</h1>
-<h3 align="center">A passionate software engineer from San Diego, Ca based in Guadalajara, Mexico</h3>
+<h1 align="left">Hi 👋🏽, I'm Triola Michelle</h1>
+<h3 align="left">A passionate software engineer from San Diego, Ca based in Guadalajara, Mexico</h3>
 
 - 🔭 I’m currently working on **Dog and Cat Manager App**
 
